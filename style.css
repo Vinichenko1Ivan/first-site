@@ -1,0 +1,66 @@
+.item
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(225, 225, 140);
+}
+body {
+    display: block;
+    margin: 4px;
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 8px;
+    margin-left: 60px;
+    font-family: serif;
+}
+html
+{
+    background-color: beige; 
+
+}
+h1
+{
+    color: rgb(4, 55, 4);
+    font-family: sans-serif;
+    
+}
+h2
+{
+    color: rgb(4, 55, 4);
+    font-family: sans-serif
+}
+h3
+{
+    color: rgb(4, 55, 4);
+    font-family: sans-serif
+}
+strong
+{
+    color: brown;
+}
+.photo
+{
+    display: flex;
+    justify-content: center;
+}
+img
+{
+    background-color: bisque ;
+    width: 340px;
+    height: 340px;
+    border-style: double;
+    border-width: 5px;
+}
+footer
+{
+    display: block;
+    margin: 4px;
+    margin-top: 30px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    display: flex;
+    justify-content: center;
+    color: rgb(38, 98, 38);
+    font: 1.2em sans-serif;
+}

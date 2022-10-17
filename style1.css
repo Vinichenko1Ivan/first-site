@@ -1,0 +1,40 @@
+.item
+{
+display: flex;
+justify-content: space-evenly;
+background-color: rgb(225, 225, 140);
+}
+html
+{
+    background-color: beige;
+}
+footer
+{
+    display: block;
+    margin: 4px;
+    margin-top: 483.5px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    margin-left: 4px;
+    display: flex;
+    justify-content: center;
+    color: rgb(38, 98, 38);
+    font: 1.2em sans-serif;
+}
+body {
+    display: block;
+    margin: 4px;
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-bottom: 8px;
+    margin-left: 60px;
+}
+h1
+{
+    font-family: sans-serif;
+    color: rgb(4, 55, 4);
+}
+p
+{
+    font: serif;
+}
